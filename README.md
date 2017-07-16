@@ -1,4 +1,4 @@
-# vue-music
+# music app
 
 > 音乐播放器
 
