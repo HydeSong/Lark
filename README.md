@@ -1,6 +1,6 @@
-# vue-music
+# Lark
 
-> 音乐播放器
+> 百灵鸟音乐播放器
 
 ## Build Setup
 
