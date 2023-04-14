@@ -1,5 +1,5 @@
 import {commonParams} from './config'
-import axios from 'axios'
+import axios from 'brick-requests'
 
 export function getLyric(mid) {
   const url = '/api/lyric'
