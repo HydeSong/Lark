@@ -5,7 +5,7 @@ module.exports = {
   build: {
     env: require('./prod.env'),
     port: 9000,
-    index: path.resolve(__dirname, '../dist/index.html'),
+    index: path.resolve(__dirname, '../_site/index.html'),
     assetsRoot: path.resolve(__dirname, '../_site'),
     assetsSubDirectory: 'static',
     assetsPublicPath: './',
